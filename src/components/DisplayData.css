@@ -1,0 +1,7 @@
+.box_div{
+    border: 2px solid black;
+    width: fit-content;
+    padding:20px 40px;
+    margin: auto;
+    margin-top: 10px;
+}
